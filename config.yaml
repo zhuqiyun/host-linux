@@ -1,0 +1,6 @@
+server:
+  port: 9003
+sqlite:
+  path: sqlite.db
+tcpserver:
+  port: 9004
